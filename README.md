@@ -8,5 +8,5 @@ HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
 ## $ pip install bs4
 ## $ git clone https://github.com/Mamang-hack/BruteFb
 ## $ cd BruteFb
-## $ python fb.py
+## $ python Risbrute.py
 # OK SEKIAN DARI ANE JANGAN LUPA KLIK BINTANG/STAR
